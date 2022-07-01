@@ -3,4 +3,4 @@ title: whatever
 layout: default
 ---
 
-# Hello World
+Hello World
